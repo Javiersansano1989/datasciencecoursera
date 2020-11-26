@@ -1,0 +1,12 @@
+---
+title: "md_file"
+author: "Javier"
+date: "25-11-2020"
+output:
+  html_document:
+    df_print: paged
+  pdf_document:
+    highlight: null
+  word_document: default
+---
+## This is a markdown file
